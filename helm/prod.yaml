@@ -3,5 +3,5 @@ component: frontend
 params: ""
 
 service:
-  type: LoadBalancerService
+  type: LoadBalancer
   port: 80
